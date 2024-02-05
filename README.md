@@ -1,2 +1,2 @@
 # SpotifyClone
-Spotify Clone Application
+Spotify Clone Application.
